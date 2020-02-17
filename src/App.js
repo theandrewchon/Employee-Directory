@@ -2,11 +2,16 @@ import React from 'react';
 import employees from './employees.json';
 
 import './App.css';
+import Navbar from './components/Navbar/index.js';
+import Directory from './pages/Directory.js';
 
 function App() {
-  const [employees, setEmployees] = useState({
-    id: 0
-  });
+  return (
+    <div>
+      <Navbar></Navbar>
+      <Directory></Directory>
+    </div>
+  );
 }
 
 export default App;
