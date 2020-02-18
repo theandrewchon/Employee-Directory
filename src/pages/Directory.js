@@ -4,6 +4,7 @@ import Card from "../components/Card";
 import ColumnWrapper from "../components/ColumnWrapper/index.js";
 import Column from "../components/Column";
 import SearchForm from "../components/SearchForm/index.js";
+import Button from "../components/Button/index.js";
 
 function Directory() {
 	const [employees, setEmployees] = useState([]);
@@ -14,7 +15,7 @@ function Directory() {
 			return;
 		}
 		setEmployees(employee);
-	}, [search]);
+	}, [employees]);
 
 	const handleInputChange = event => {
 		setSearch(event.target.value);
@@ -23,13 +24,35 @@ function Directory() {
 		});
 		setEmployees(filtered);
 	};
+	const sortAge = () => {
+		employees.sort((a, b) => a.age - b.age);
+		setEmployees(employees);
+	};
 
+	const sortSalary = () => {
+		employees.sort((a, b) => a.salary - b.salary);
+		setEmployees(employees);
+	};
 	console.log("employees state", employees);
 	console.log("search state", search);
 
 	return (
 		<div className="container">
 			<SearchForm handleInputChange={handleInputChange}></SearchForm>
+			<Button
+				onClick={() => {
+					sortAge();
+				}}
+			>
+				Sort by Age
+			</Button>
+			<Button
+				onClick={() => {
+					sortSalary();
+				}}
+			>
+				Sort by Salary
+			</Button>
 			<ColumnWrapper>
 				{employees.map(employee => (
 					<Column key={employee.id}>
