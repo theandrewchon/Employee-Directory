@@ -1,44 +1,51 @@
 [
-  {
-    "id": 1,
-    "name": "Andrew1",
-    "salary": 50001,
-    "age": 21
-  },
-  {
-    "id": 2,
-    "name": "Andrew2",
-    "salary": 50002,
-    "age": 22
-  },
-  {
-    "id": 3,
-    "name": "Andrew3",
-    "salary": 50003,
-    "age": 23
-  },
-  {
-    "id": 4,
-    "name": "Andrew4",
-    "salary": 50004,
-    "age": 24
-  },
-  {
-    "id": 5,
-    "name": "Andrew5",
-    "salary": 50005,
-    "age": 25
-  },
-  {
-    "id": 6,
-    "name": "Andrew6",
-    "salary": 50006,
-    "age": 26
-  },
-  {
-    "id": 7,
-    "name": "Andrew7",
-    "salary": 50007,
-    "age": 27
-  }
+	{
+		"id": 1,
+		"name": "Andrew1",
+		"salary": 50001,
+		"title": "Lawyer",
+		"age": 21
+	},
+	{
+		"id": 2,
+		"name": "Andrew2",
+		"salary": 50002,
+		"title": "Engineer",
+		"age": 22
+	},
+	{
+		"id": 3,
+		"name": "Andrew3",
+		"salary": 50003,
+		"title": "HR",
+		"age": 23
+	},
+	{
+		"id": 4,
+		"name": "Andrew4",
+		"salary": 50004,
+		"title": "Sales",
+		"age": 24
+	},
+	{
+		"id": 5,
+		"name": "Andrew5",
+		"salary": 50005,
+		"title": "Janitor",
+		"age": 25
+	},
+	{
+		"id": 6,
+		"name": "Andrew6",
+		"salary": 50006,
+		"title": "Data Analyst",
+		"age": 26
+	},
+	{
+		"id": 7,
+		"name": "Andrew7",
+		"salary": 50007,
+		"title": "Developer",
+		"age": 27
+	}
 ]
