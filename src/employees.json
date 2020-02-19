@@ -4,48 +4,55 @@
 		"name": "Yannis Yang",
 		"salary": 150000,
 		"title": "Lawyer",
-		"age": 51
+		"age": 51,
+		"picture": "https://images.generated.photos/r2rDJdUdz6sAjqPgZYNViEeHm4w2cdNJdOp2MXVyxdw/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zLzA5/OTk4NzAuanBn.jpg"
 	},
 	{
 		"id": 2,
 		"name": "Yannis Schaefer",
 		"salary": 75000,
 		"title": "Engineer",
-		"age": 31
+		"age": 31,
+		"picture": "https://images.generated.photos/GxzBzL7MtUEemhizKJXjIpV327R5y0SckdCou21jn1U/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yy/XzAyMDI0NzguanBn.jpg"
 	},
 	{
 		"id": 3,
 		"name": "Marlon Thomson",
 		"salary": 50000,
 		"title": "HR",
-		"age": 23
+		"age": 23,
+		"picture": "https://images.generated.photos/PYqJjdWKLiLWW3R0pVQGZRQ6oZWQ5qdPMLkwLCttkJs/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zLzA5/OTUwMjkuanBn.jpg"
 	},
 	{
 		"id": 4,
 		"name": "Rhiann Fuller",
 		"salary": 80000,
 		"title": "Sales",
-		"age": 18
+		"age": 18,
+		"picture": "https://images.generated.photos/QaHbCf7SRuFeppnmIBd0tTKzoLAgLPiQYiTkjBwo6IQ/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zLzA5/OTk5MTcuanBn.jpg"
 	},
 	{
 		"id": 5,
 		"name": "Gavin Garner",
 		"salary": 60000,
 		"title": "Janitor",
-		"age": 43
+		"age": 43,
+		"picture": "https://images.generated.photos/EWV-zLc5-iWQ8pMTKLsTd3L5TNCafscujeCIYmEMkuQ/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yy/XzA4MjExMjUuanBn.jpg"
 	},
 	{
 		"id": 6,
 		"name": "Nevaeh Harvey",
 		"salary": 87000,
 		"title": "Data Analyst",
-		"age": 80
+		"age": 80,
+		"picture": "https://images.generated.photos/z6ddT-zUY08aZe4PNeF6Bl5wGGbToASRmPfh2HqDCXA/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zLzA5/OTk1NzAuanBn.jpg"
 	},
 	{
 		"id": 7,
 		"name": "Muhamed Ahmed",
 		"salary": 95000,
 		"title": "Developer",
-		"age": 21
+		"age": 21,
+		"picture": "https://images.generated.photos/MJq-hyF79gECIHvtnJRD8uHj4Lw-xqNWq1KYHQBTCe8/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yy/XzAyOTk3NjYuanBn.jpg"
 	}
 ]

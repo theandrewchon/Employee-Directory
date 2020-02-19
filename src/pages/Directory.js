@@ -61,6 +61,7 @@ function Directory() {
 							salary={employee.salary}
 							title={employee.title}
 							age={employee.age}
+							picture={employee.picture}
 						/>
 					</Column>
 				))}
