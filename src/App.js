@@ -1,5 +1,4 @@
 import React from 'react';
-import employees from './employees.json';
 
 import './App.css';
 import Navbar from './components/Navbar/index.js';
